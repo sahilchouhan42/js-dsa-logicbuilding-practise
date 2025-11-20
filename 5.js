@@ -13,4 +13,4 @@ function CheckCharacterCount(str){
     }
 }
 
-CheckCharacterCount("banana")
+CheckCharacterCount("banana")                               
